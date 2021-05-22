@@ -1,6 +1,6 @@
 📛 Hi, I’m Jakub Baranowski.
 
-👔 I'm a QA Engineering Lead @ GOG.com.
+👔 I'm a Lead QA Engineer @GOG.com.
 
 ✨ In my spare time tinkering with game dev/modding and web dev.
 
