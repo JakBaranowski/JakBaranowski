@@ -1,12 +1,12 @@
 📛 Hi, I’m Jakub Baranowski.
 
-👔 I'm a Senior QA Engineer @GOG.com.
+👔 I'm a Senior QA Engineer @GOG.com, where I mostly work with Python and Selenium.
 
 ✨ In my spare time I like to tinker with game development/modding and web development.
 
-🧩 I enjoy solving problems no matter what they are, and because of that I'm always learning something new.
-
-🌱 Lately, I've been working with Blender and Godot.
+🌱 Lately, I've been learning:
+  🎮 Blender, Godot and GDScript for game development,
+  🕸  GoLang, Docker, Kubernetes for web development.
 
 📫 You can reach me via email *jbaranowski (at) rubberduckling.dev*.
 
