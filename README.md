@@ -2,12 +2,14 @@
 
 👔 I'm a Software Developer @GOG.com, where I mostly work with Python.
 
-✨ In my spare time I like to tinker with game development/modding and web development.
+🌱 Currently I'm learning abour Data Science and Engineering.
 
-🌱 Lately, I've been learning:
+✨ I like to tinker with technology in my spare time. Lately, I'm experimenting with:
 
-* 🕸 GoLang, Docker, Kubernetes for web development.
-* 🎮 Blender, Godot and GDScript for game development,
+* 🕸 GoLang for web development and CLIs
+* 🎼 Docker and Kubernetes for smooth deployments
+* 🔧 Lua for game modding
+* 🎮 Blender, Godot and GDScript for game development
 
 📫 You can reach me via email *jbaranowski (at) rubberduckling.dev*.
 
